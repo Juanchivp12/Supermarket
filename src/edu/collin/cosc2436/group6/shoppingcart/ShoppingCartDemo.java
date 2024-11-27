@@ -185,7 +185,7 @@ public class ShoppingCartDemo
 	}
 	
 	/**
-	 * Private helper to add items and their price to each type
+	 * Private helper to add items and their price to each type.
 	 * @param items item to set the price for
 	 * @param lookUp
 	 * @throws MissingCategoryException exception to be thrown when there is a missing category
